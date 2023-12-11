@@ -38,6 +38,7 @@ export const RewiewsWidget = () => {
   };
 
   const options = ['good', 'neutral', 'bad'];
+
   return (
     <div className="wrap">
       <Section title="Please leave feedback">
