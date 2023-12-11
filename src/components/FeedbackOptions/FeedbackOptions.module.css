@@ -1,0 +1,16 @@
+.score {
+  display: block;
+}
+.button {
+  padding: 10px 30px;
+  margin-right: 20px;
+  border-radius: 5px;
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: capitalize;
+  cursor: pointer;
+  &:active {
+    background-color: blue;
+    color: azure;
+  }
+}
